@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --bg-grad: linear-gradient(to bottom, #fff, #fff7f9, #ffeef4); }
+
+html, body, #root { height: 100%; }
+
+body {
+  @apply text-slate-900;
+  font-family: "Baloo 2", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg-grad);
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
