@@ -1,8 +1,8 @@
-﻿{
+{
   "name": "sathvika-portfolio-cra",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://SathvikaKotra.github.io/SathvikaPortfolio",
+  "homepage": "https://SathvikaKotra.github.io/SathvikaPortflio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -19,9 +19,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
+    "gh-pages": "^5.0.0",
     "postcss": "^8.4.24",
-    "tailwindcss": "^3.4.7",
-    "gh-pages": "^5.0.0"
+    "tailwindcss": "^3.4.7"
   },
   "browserslist": {
     "production": [
