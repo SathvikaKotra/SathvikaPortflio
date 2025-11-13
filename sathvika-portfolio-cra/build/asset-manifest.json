@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SathvikaPortflio/static/css/main.fba824c5.css",
+    "main.js": "/SathvikaPortflio/static/js/main.7582c6af.js",
+    "index.html": "/SathvikaPortflio/index.html",
+    "main.fba824c5.css.map": "/SathvikaPortflio/static/css/main.fba824c5.css.map",
+    "main.7582c6af.js.map": "/SathvikaPortflio/static/js/main.7582c6af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba824c5.css",
+    "static/js/main.7582c6af.js"
+  ]
+}
