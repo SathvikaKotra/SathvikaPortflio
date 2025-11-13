@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://SathvikaKotra.github.io/SathvikaPortflio",
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
